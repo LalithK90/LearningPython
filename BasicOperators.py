@@ -61,8 +61,8 @@ if a > b:
 else:
     print("Line 5 - a is not greater than b")
 
-a = 5;
-b = 20;
+a = 5
+b = 20
 if a <= b:
     print("Line 6 - a is either less than or equal to  b")
 else:
