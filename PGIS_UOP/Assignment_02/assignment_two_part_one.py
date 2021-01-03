@@ -22,7 +22,7 @@ def accordingProblemSize(value):
 
 finalResult = []
 for x in problemSizes:
-    finalResult.append("Problem Size : " + str(x) + " Total Time : " + str(accordingProblemSize(x)))
+    finalResult.append("Problem Size : " + str(x) + " Total Time : " + str(accordingProblemSize(x))+"s")
 
 for y in finalResult:
     print(y)
