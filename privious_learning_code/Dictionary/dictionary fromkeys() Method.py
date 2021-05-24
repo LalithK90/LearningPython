@@ -9,9 +9,9 @@
 #
 # Parameters
 #
-#     seq − This is the list of values which would be used for dictionary keys preparation.
+# seq − This is the list of values which would be used for dictionary keys preparation.
 #
-#     value − This is optional, if provided then value would be set to this value
+# value − This is optional, if provided then value would be set to this value
 #
 # Return Value
 #

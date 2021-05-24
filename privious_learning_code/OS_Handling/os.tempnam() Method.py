@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     dir − This is the dir where the temporary filename will be created.
+# dir − This is the dir where the temporary filename will be created.
 #
-#     prefix − This is the prefix of the generated temporary filename.
+# prefix − This is the prefix of the generated temporary filename.
 #
 # Return Value
 #

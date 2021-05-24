@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     path − This is the path of the directory, which needs to be removed.
+# path − This is the path of the directory, which needs to be removed.
 #
 # Return Value
 #

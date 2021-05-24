@@ -9,11 +9,11 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor for which a file object is to be returned.
+# fd − This is the file descriptor for which a file object is to be returned.
 #
-#     mode − This optional argument is a string indicating how the file is to be opened. The most commonly-used values of mode are 'r' for reading, 'w' for writing (truncating the file if it already exists), and 'a' for appending.
+# mode − This optional argument is a string indicating how the file is to be opened. The most commonly-used values of mode are 'r' for reading, 'w' for writing (truncating the file if it already exists), and 'a' for appending.
 #
-#     bufsize − This optional argument specifies the file's desired buffer size: 0 means unbuffered, 1 means line buffered, any other positive value means use a buffer of (approximately) that size.
+# bufsize − This optional argument specifies the file's desired buffer size: 0 means unbuffered, 1 means line buffered, any other positive value means use a buffer of (approximately) that size.
 #
 # Return Value
 #

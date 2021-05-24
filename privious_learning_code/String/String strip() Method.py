@@ -11,7 +11,7 @@ print(str.strip('0'))
 #
 # Parameters
 #
-#     chars − The characters to be removed from beginning or end of the string.
+# chars − The characters to be removed from beginning or end of the string.
 #
 # Return Value
 #

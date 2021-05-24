@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     device − This is a raw device number (usually the st_dev or st_rdev field from stat).
+# device − This is a raw device number (usually the st_dev or st_rdev field from stat).
 #
 # Return Value
 #

@@ -9,11 +9,11 @@
 #
 # Parameters
 #
-#     command − This is command used.
+# command − This is command used.
 #
-#     mode − This is the Mode can be 'r'(default) or 'w'.
+# mode − This is the Mode can be 'r'(default) or 'w'.
 #
-#     bufsize − If the buffering value is set to 0, no buffering will take place. If the buffering value is 1, line buffering will be performed while accessing a file. If you specify the buffering value as an integer greater than 1, then buffering action will be performed with the indicated buffer size. If negative, the buffer size is the system default(default behavior).
+# bufsize − If the buffering value is set to 0, no buffering will take place. If the buffering value is 1, line buffering will be performed while accessing a file. If you specify the buffering value as an integer greater than 1, then buffering action will be performed with the indicated buffer size. If negative, the buffer size is the system default(default behavior).
 #
 # Return Value
 #

@@ -15,11 +15,11 @@ print(str1.index(str2))
 #
 # Parameters
 #
-#     str − This specifies the string to be searched.
+# str − This specifies the string to be searched.
 #
-#     beg − This is the starting index, by default its 0
+# beg − This is the starting index, by default its 0
 #
-#     len − This is ending index, by default its equal to the length of the string.
+# len − This is ending index, by default its equal to the length of the string.
 #
 # Return Value
 #

@@ -9,9 +9,9 @@
 #
 # Parameters
 #
-#     dict1 − This is the first dictionary to be compared with dict2.
+# dict1 − This is the first dictionary to be compared with dict2.
 #
-#     dict2 − This is the second dictionary to be compared with dict1.
+# dict2 − This is the second dictionary to be compared with dict1.
 #
 # Return Value
 #

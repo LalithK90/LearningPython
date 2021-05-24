@@ -13,7 +13,7 @@ print("Decoded String: " + Str.decode('base64', 'strict'))
 #
 # Parameters
 #
-#     encoding − This is the encodings to be used. For a list of all encoding schemes please visit: Standard Encodings.
+# encoding − This is the encodings to be used. For a list of all encoding schemes please visit: Standard Encodings.
 #
 # errors − This may be given to set a different error handling scheme. The default for errors is 'strict',
 # meaning that encoding errors raise a UnicodeError. Other possible values are 'ignore', 'replace',

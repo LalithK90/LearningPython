@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     obj − This is the object to be counted in the list.
+# obj − This is the object to be counted in the list.
 #
 # Return Value
 #

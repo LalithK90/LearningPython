@@ -1,4 +1,4 @@
-print("\n                   Python - Strings        \n")
+print("\n   Python - Strings\n")
 
 print("\n Accessing Values in Strings\n")
 var1 = 'Hello World!'

@@ -14,7 +14,7 @@ print(str.swapcase())
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #

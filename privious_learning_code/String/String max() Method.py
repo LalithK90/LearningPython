@@ -14,7 +14,7 @@ print("Max character: " + max(str))
 #
 # Parameters
 #
-#     str − This is the string from which max alphabetical character needs to be returned.
+# str − This is the string from which max alphabetical character needs to be returned.
 #
 # Return Value
 #

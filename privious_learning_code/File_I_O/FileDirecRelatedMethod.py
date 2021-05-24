@@ -1,4 +1,4 @@
-print("                             File & Directory Related Methods\n")
+print(" File & Directory Related Methods\n")
 
 print("File Object Methods\n")
 

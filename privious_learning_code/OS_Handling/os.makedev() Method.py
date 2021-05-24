@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     major − This is Major device number.
+# major − This is Major device number.
 #
-#     minor − This is Minor device number.
+# minor − This is Minor device number.
 #
 # Return Value
 #

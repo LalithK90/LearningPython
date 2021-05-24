@@ -12,7 +12,7 @@
 #
 # Parameters
 #
-#     t − This is the number of seconds execution to be suspended.
+# t − This is the number of seconds execution to be suspended.
 #
 # Return Value
 #

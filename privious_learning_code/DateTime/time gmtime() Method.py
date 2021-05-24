@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     sec − These are the number of seconds to be converted into structure struct_time representation.
+# sec − These are the number of seconds to be converted into structure struct_time representation.
 #
 # Return Value
 #

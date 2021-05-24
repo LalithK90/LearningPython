@@ -12,9 +12,9 @@ print(str.split(' ', 1))
 #
 # Parameters
 #
-#     str − This is any delimeter, by default it is space.
+# str − This is any delimeter, by default it is space.
 #
-#     num − this is number of lines minus one
+# num − this is number of lines minus one
 #
 # Return Value
 #

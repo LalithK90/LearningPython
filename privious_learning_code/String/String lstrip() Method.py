@@ -1,4 +1,4 @@
-str = "     this is string example....wow!!!     "
+str = " this is string example....wow!!! "
 print(str.lstrip())
 str = "88888888this is string example....wow!!!8888888"
 print(str.lstrip('8'))
@@ -13,7 +13,7 @@ print(str.lstrip('8'))
 #
 # Parameters
 #
-#     chars − You can supply what chars have to be trimmed.
+# chars − You can supply what chars have to be trimmed.
 #
 # Return Value
 #

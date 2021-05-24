@@ -14,7 +14,7 @@ print(str.isalpha())
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #

@@ -9,9 +9,9 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor, which needs to be truncated.
+# fd − This is the file descriptor, which needs to be truncated.
 #
-#     length − This is the length of the file where file needs to be truncated.
+# length − This is the length of the file where file needs to be truncated.
 #
 # Return Value
 #

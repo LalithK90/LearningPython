@@ -9,37 +9,37 @@
 #
 # Parameters
 #
-#     file − File name to be opened.
+# file − File name to be opened.
 #
-#     flags − The following constants are options for the flags. They can be combined using the bitwise OR operator |. Some of them are not available on all platforms.
+# flags − The following constants are options for the flags. They can be combined using the bitwise OR operator |. Some of them are not available on all platforms.
 #
-#         os.O_RDONLY − open for reading only
+# os.O_RDONLY − open for reading only
 #
-#         os.O_WRONLY − open for writing only
+# os.O_WRONLY − open for writing only
 #
-#         os.O_RDWR − open for reading and writing
+# os.O_RDWR − open for reading and writing
 #
-#         os.O_NONBLOCK − do not block on open
+# os.O_NONBLOCK − do not block on open
 #
-#         os.O_APPEND − append on each write
+# os.O_APPEND − append on each write
 #
-#         os.O_CREAT − create file if it does not exist
+# os.O_CREAT − create file if it does not exist
 #
-#         os.O_TRUNC − truncate size to 0
+# os.O_TRUNC − truncate size to 0
 #
-#         os.O_EXCL − error if create and file exists
+# os.O_EXCL − error if create and file exists
 #
-#         os.O_SHLOCK − atomically obtain a shared lock
+# os.O_SHLOCK − atomically obtain a shared lock
 #
-#         os.O_EXLOCK − atomically obtain an exclusive lock
+# os.O_EXLOCK − atomically obtain an exclusive lock
 #
-#         os.O_DIRECT − eliminate or reduce cache effects
+# os.O_DIRECT − eliminate or reduce cache effects
 #
-#         os.O_FSYNC − synchronous writes
+# os.O_FSYNC − synchronous writes
 #
-#         os.O_NOFOLLOW − do not follow symlinks
+# os.O_NOFOLLOW − do not follow symlinks
 #
-#     mode − This work in similar way as it works for chmod() method.
+# mode − This work in similar way as it works for chmod() method.
 #
 # Return Value
 #

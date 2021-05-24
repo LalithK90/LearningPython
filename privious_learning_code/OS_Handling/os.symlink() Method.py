@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     src − This is the source.
+# src − This is the source.
 #
-#     dest − This is the destination, which didn't exist previously.
+# dest − This is the destination, which didn't exist previously.
 #
 # Return Value
 #

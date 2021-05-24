@@ -14,7 +14,7 @@ print(str.istitle())
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #

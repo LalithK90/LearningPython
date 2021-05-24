@@ -19,11 +19,11 @@ print(str1.find(str2, 10, 0))
 #
 # Parameters
 #
-#     str − This specifies the string to be searched.
+# str − This specifies the string to be searched.
 #
-#     beg − This is the starting index, by default its 0.
+# beg − This is the starting index, by default its 0.
 #
-#     end − This is the ending index, by default its equal to the length of the string.
+# end − This is the ending index, by default its equal to the length of the string.
 #
 # Return Value
 #

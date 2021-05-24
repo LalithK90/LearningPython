@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     sec − These are the number of seconds to be converted into string representation.
+# sec − These are the number of seconds to be converted into string representation.
 #
 # Return Value
 #

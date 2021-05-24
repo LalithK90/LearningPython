@@ -5,31 +5,31 @@
 #
 # Here is the structure returned by lstat method −
 #
-#     st_dev − ID of device containing file
+# st_dev − ID of device containing file
 #
-#     st_ino − inode number
+# st_ino − inode number
 #
-#     st_mode − protection
+# st_mode − protection
 #
-#     st_nlink − number of hard links
+# st_nlink − number of hard links
 #
-#     st_uid − user ID of owner
+# st_uid − user ID of owner
 #
-#     st_gid − group ID of owner
+# st_gid − group ID of owner
 #
-#     st_rdev − device ID (if special file)
+# st_rdev − device ID (if special file)
 #
-#     st_size − total size, in bytes
+# st_size − total size, in bytes
 #
-#     st_blksize − blocksize for filesystem I/O
+# st_blksize − blocksize for filesystem I/O
 #
-#     st_blocks − number of blocks allocated
+# st_blocks − number of blocks allocated
 #
-#     st_atime − time of last access
+# st_atime − time of last access
 #
-#     st_mtime − time of last modification
+# st_mtime − time of last modification
 #
-#     st_ctime − time of last status change
+# st_ctime − time of last status change
 #
 # Syntax
 #
@@ -39,7 +39,7 @@
 #
 # Parameters
 #
-#     path − This is the file for which information would be returned.
+# path − This is the file for which information would be returned.
 #
 # Return Value
 #

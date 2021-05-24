@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     path − This is the path, which is to be removed.
+# path − This is the path, which is to be removed.
 #
 # Return Value
 #

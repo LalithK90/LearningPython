@@ -11,7 +11,7 @@ print("str.capitalize() : ", str.upper())
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #

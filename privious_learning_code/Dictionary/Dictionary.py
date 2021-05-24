@@ -1,4 +1,4 @@
-print("                         Python - Dictionary\n")
+print(" Python - Dictionary\n")
 print("\nAccessing Values in Dictionary\n")
 dict = {'Name': 'Zara', 'Age': 7, 'Class': 'First'}
 print("dict['Name']: ", dict['Name'])
@@ -15,8 +15,8 @@ print("dict1['School']: ", dict1['School'])
 print("\nDelete Dictionary Elements\n")
 dict2 = {'Name': 'Zara', 'Age': 7, 'Class': 'First'}
 del dict2['Name']; # remove entry with key 'Name'
-dict2.clear();     # remove all entries in dict
-del dict2 ;        # delete entire dictionary
+dict2.clear(); # remove all entries in dict
+del dict2 ;# delete entire dictionary
 
 print("dict2['Age']: ", dict2['Age'])
 print("dict2['School']: ", dict2['School'])

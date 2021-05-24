@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     old − This is the actual name of the file or directory to be renamed.
+# old − This is the actual name of the file or directory to be renamed.
 #
-#     new − This is the new name of the file or directory.It can even include a file to a directory, or a whole tree of directories, that do not exist.
+# new − This is the new name of the file or directory.It can even include a file to a directory, or a whole tree of directories, that do not exist.
 #
 # Return Value
 #

@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     path − This is the path which would be set as root for the current process.
+# path − This is the path which would be set as root for the current process.
 #
 # Return Value
 #

@@ -3,27 +3,27 @@
 #
 # The method fstatvfs() returns information about the file system containing the file associated with file descriptor fd. This returns the following sturcture −
 #
-#     f_bsize − file system block size
+# f_bsize − file system block size
 #
-#     f_frsize − fragment size
+# f_frsize − fragment size
 #
-#     f_blocks − size of fs in f_frsize units
+# f_blocks − size of fs in f_frsize units
 #
-#     f_bfree − free blocks
+# f_bfree − free blocks
 #
-#     f_bavail − free blocks for non-root
+# f_bavail − free blocks for non-root
 #
-#     f_files − inodes
+# f_files − inodes
 #
-#     f_ffree − free inodes
+# f_ffree − free inodes
 #
-#     f_favail − free inodes for non-root
+# f_favail − free inodes for non-root
 #
-#     f_fsid − file system ID
+# f_fsid − file system ID
 #
-#     f_flag − mount flags
+# f_flag − mount flags
 #
-#     f_namemax − maximum filename length
+# f_namemax − maximum filename length
 #
 # Syntax
 #
@@ -33,7 +33,7 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor for which system information is to be returned.
+# fd − This is the file descriptor for which system information is to be returned.
 #
 # Return Value
 #

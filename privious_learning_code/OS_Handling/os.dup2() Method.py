@@ -11,9 +11,9 @@
 #
 # Parameters
 #
-#     fd − This is File descriptor to be duplicated.
+# fd − This is File descriptor to be duplicated.
 #
-#     fd2 − This is Duplicate file descriptor.
+# fd2 − This is Duplicate file descriptor.
 #
 # Return Value
 #

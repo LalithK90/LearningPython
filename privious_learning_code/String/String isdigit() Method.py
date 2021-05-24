@@ -14,7 +14,7 @@ print(str.isdigit())
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #

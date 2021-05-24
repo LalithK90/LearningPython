@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor for which association needs to be checked.
+# fd − This is the file descriptor for which association needs to be checked.
 #
 # Return Value
 #

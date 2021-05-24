@@ -9,11 +9,11 @@
 #
 # Parameters
 #
-#     path − This is the file path for which ownership to be set.
+# path − This is the file path for which ownership to be set.
 #
-#     uid − This is the Owner ID to be set for the file.
+# uid − This is the Owner ID to be set for the file.
 #
-#     gid − This is the Group ID to be set for the file.
+# gid − This is the Group ID to be set for the file.
 #
 # Return Value
 #

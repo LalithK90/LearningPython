@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     path − This is the path of the file.
+# path − This is the path of the file.
 #
-#     times − This is the file access and modified time. If times is none, then the file access and modified times are set to the current time. The parameter times consists of row in the form of (atime, mtime) i.e (accesstime, modifiedtime).
+# times − This is the file access and modified time. If times is none, then the file access and modified times are set to the current time. The parameter times consists of row in the form of (atime, mtime) i.e (accesstime, modifiedtime).
 #
 # Return Value
 #

@@ -1,7 +1,7 @@
 import math
 
 # Taking the input from user
-number = int(input("Enter the Number"))
+number: int = int(input("Enter the Number"))
 
 root = math.sqrt(number)
 if int(root) ** 2 == number:

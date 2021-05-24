@@ -2,9 +2,9 @@ print("Lines and Indentation")
 
 print("Lines and Indentation - correct implement")
 if True:
-    print("True")
+print("True")
 else:
-    print("False")
+print("False")
 
 print("Lines and Indentation - Incorrect implement")
 # Remove below comment to see error

@@ -12,7 +12,7 @@ print(str.zfill(50))
 #
 # Parameters
 #
-#     width − This is final width of the string. This is the width which we would get after filling zeros.
+# width − This is final width of the string. This is the width which we would get after filling zeros.
 #
 # Return Value
 #

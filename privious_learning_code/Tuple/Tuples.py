@@ -1,4 +1,4 @@
-print("                             Python - Tuples\n")
+print(" Python - Tuples\n")
 print("\nAccessing Values in Tuples\n")
 tup1 = ('physics', 'chemistry', 1997, 2000)
 tup2 = (1, 2, 3, 4, 5, 6, 7)

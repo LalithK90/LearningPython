@@ -9,7 +9,7 @@
 #
 # Parameters
 #
-#     sequence − This is the Sequence of the strings.
+# sequence − This is the Sequence of the strings.
 #
 # Return Value
 #
@@ -34,8 +34,8 @@ line = fo.writelines(seq)
 # Now read complete file from beginning.
 fo.seek(0, 0)
 for index in range(7):
-    line = fo.next()
-    print("Line No %d - %s" % (index, line))
+line = fo.next()
+print("Line No %d - %s" % (index, line))
 
 # Close opend file
 fo.close()

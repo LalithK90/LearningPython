@@ -14,7 +14,7 @@
 #
 # Parameters
 #
-#     size − If this optional argument is present, the file is truncated to (at most) that size.
+# size − If this optional argument is present, the file is truncated to (at most) that size.
 #
 # Return Value
 #

@@ -9,7 +9,7 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor of the file.
+# fd − This is the file descriptor of the file.
 #
 # Return Value
 #

@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     path − This is the path, which needs to be created recursively.
+# path − This is the path, which needs to be created recursively.
 #
-#     mode − This is the Mode of the directories to be given.
+# mode − This is the Mode of the directories to be given.
 #
 # Return Value
 #

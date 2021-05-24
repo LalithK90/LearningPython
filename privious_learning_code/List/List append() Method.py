@@ -9,7 +9,7 @@
 #
 # Parameters
 #
-#     obj − This is the object to be appended in the list.
+# obj − This is the object to be appended in the list.
 #
 # Return Value
 #

@@ -12,29 +12,29 @@
 #
 # Parameters
 #
-#     path − This is complete path of the directory to be changed to a new location.
+# path − This is complete path of the directory to be changed to a new location.
 #
-#     flags − The flags specified are formed by OR'ing the following values −
+# flags − The flags specified are formed by OR'ing the following values −
 #
-#         so.UF_NODUMP − Do not dump the file.
+# so.UF_NODUMP − Do not dump the file.
 #
-#         so.UF_IMMUTABLE − The file may not be changed.
+# so.UF_IMMUTABLE − The file may not be changed.
 #
-#         so.UF_APPEND − The file may only be appended to.
+# so.UF_APPEND − The file may only be appended to.
 #
-#         so.UF_NOUNLINK − The file may not be renamed or deleted.
+# so.UF_NOUNLINK − The file may not be renamed or deleted.
 #
-#         so.UF_OPAQUE − The directory is opaque when viewed through a union stack.
+# so.UF_OPAQUE − The directory is opaque when viewed through a union stack.
 #
-#         so.SF_ARCHIVED − The file may be archived.
+# so.SF_ARCHIVED − The file may be archived.
 #
-#         so.SF_IMMUTABLE − The file may not be changed.
+# so.SF_IMMUTABLE − The file may not be changed.
 #
-#         so.SF_APPEND − The file may only be appended to.
+# so.SF_APPEND − The file may only be appended to.
 #
-#         so.SF_NOUNLINK − The file may not be renamed or deleted.
+# so.SF_NOUNLINK − The file may not be renamed or deleted.
 #
-#         so.SF_SNAPSHOT − The file is a snapshot file.
+# so.SF_SNAPSHOT − The file is a snapshot file.
 #
 # Return Value
 #

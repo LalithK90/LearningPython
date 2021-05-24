@@ -1,7 +1,7 @@
 
 # Parameters
 #
-#     obj − This is the object to be removed from the list.
+# obj − This is the object to be removed from the list.
 #
 # Return Value
 #

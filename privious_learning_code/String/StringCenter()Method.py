@@ -8,6 +8,6 @@ print("str.center(40, 'a') : ", str.center(40, 'a'))
 #
 # Parameters
 #
-#     width − This is the total width of the string.
+# width − This is the total width of the string.
 #
-#     fillchar − This is the filler character.
+# fillchar − This is the filler character.

@@ -14,7 +14,7 @@ print(str.islower())
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #

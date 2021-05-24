@@ -9,7 +9,7 @@
 #
 # Parameters
 #
-#     path − This is the directory, which needs to be explored.
+# path − This is the directory, which needs to be explored.
 #
 # Return Value
 #
@@ -23,4 +23,4 @@ dirs = os.listdir(path)
 
 # This would print all the files and directories
 for file in dirs:
-    print(file)
+print(file)

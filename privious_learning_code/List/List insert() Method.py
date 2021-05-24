@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     index − This is the Index where the object obj need to be inserted.
+# index − This is the Index where the object obj need to be inserted.
 #
-#     obj − This is the Object to be inserted into the given list.
+# obj − This is the Object to be inserted into the given list.
 #
 # Return Value
 #

@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     obj − This is the object to be find out.
+# obj − This is the object to be find out.
 #
 # Return Value
 #

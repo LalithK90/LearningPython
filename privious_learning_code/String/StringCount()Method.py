@@ -14,8 +14,8 @@ print("str.count(sub) : ", str.count(sub))
 #
 # Parameters
 #
-#     sub − This is the substring to be searched.
+# sub − This is the substring to be searched.
 #
-#     start − Search starts from this index. First character starts from 0 index. By default search starts from 0 index.
+# start − Search starts from this index. First character starts from 0 index. By default search starts from 0 index.
 #
-#     end − Search ends from this index. First character starts from 0 index. By default search ends at the last index.
+# end − Search ends from this index. First character starts from 0 index. By default search ends at the last index.

@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     list − This is a list from which max valued element to be returned.
+# list − This is a list from which max valued element to be returned.
 #
 # Return Value
 #

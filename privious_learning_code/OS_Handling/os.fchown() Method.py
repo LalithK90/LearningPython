@@ -11,11 +11,11 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor for which owner id and group id need to be set up.
+# fd − This is the file descriptor for which owner id and group id need to be set up.
 #
-#     uid − This is Owner ID to be set for the file.
+# uid − This is Owner ID to be set for the file.
 #
-#     gid − This is Group ID to be set for the file.
+# gid − This is Group ID to be set for the file.
 #
 # Return Value
 #

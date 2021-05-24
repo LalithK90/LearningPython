@@ -12,7 +12,7 @@ print("Length of the string: ", len(str))
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #

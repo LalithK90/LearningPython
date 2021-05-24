@@ -14,7 +14,7 @@ print(str.isalnum())
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #

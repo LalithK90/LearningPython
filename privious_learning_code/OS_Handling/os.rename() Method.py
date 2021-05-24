@@ -9,9 +9,9 @@
 #
 # Parameters
 #
-#     src − This is the actual name of the file or directory.
+# src − This is the actual name of the file or directory.
 #
-#     dst − This is the new name of the file or directory.
+# dst − This is the new name of the file or directory.
 #
 # Return Value
 #

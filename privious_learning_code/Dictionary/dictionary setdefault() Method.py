@@ -9,9 +9,9 @@
 #
 # Parameters
 #
-#     key − This is the key to be searched.
+# key − This is the key to be searched.
 #
-#     default − This is the Value to be returned in case key is not found.
+# default − This is the Value to be returned in case key is not found.
 #
 # Return Value
 #

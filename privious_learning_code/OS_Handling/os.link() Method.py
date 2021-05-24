@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     src − This is the source file path for which hard link would be created.
+# src − This is the source file path for which hard link would be created.
 #
-#     dest − This is the target file path where hard link would be created.
+# dest − This is the target file path where hard link would be created.
 #
 # Return Value
 #

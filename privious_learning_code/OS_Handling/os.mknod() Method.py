@@ -10,11 +10,11 @@
 #
 # Parameters
 #
-#     filename − This is the filesystem node to be created.
+# filename − This is the filesystem node to be created.
 #
-#     mode − The mode specifies both the permissions to use and the type of node to be created combined (bitwise OR) with one of the values stat.S_IFREG, stat.S_IFCHR, stat.S_IFBLK, and stat.S_IFIFO. They can be ORed base don requirement.
+# mode − The mode specifies both the permissions to use and the type of node to be created combined (bitwise OR) with one of the values stat.S_IFREG, stat.S_IFCHR, stat.S_IFBLK, and stat.S_IFIFO. They can be ORed base don requirement.
 #
-#     device − This is the device special file created and its optional to provide.
+# device − This is the device special file created and its optional to provide.
 #
 # Return Value
 #

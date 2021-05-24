@@ -22,7 +22,7 @@
 #
 # Parameters
 #
-#     offset − This is the position of the read/write pointer within the file.
+# offset − This is the position of the read/write pointer within the file.
 #
 # whence − This is optional and defaults to 0 which means absolute file positioning, other values are 1 which means
 # seek relative to the current position and 2 means seek relative to the file's end.

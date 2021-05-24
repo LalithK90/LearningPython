@@ -15,7 +15,7 @@ print(str.splitlines(5))
 #
 # Parameters
 #
-#     num − This is any number, if present then it would be assumed that line breaks need to be included in the lines.
+# num − This is any number, if present then it would be assumed that line breaks need to be included in the lines.
 #
 # Return Value
 #

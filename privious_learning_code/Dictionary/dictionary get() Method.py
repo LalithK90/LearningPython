@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     key − This is the Key to be searched in the dictionary.
+# key − This is the Key to be searched in the dictionary.
 #
-#     default − This is the Value to be returned in case key does not exist.
+# default − This is the Value to be returned in case key does not exist.
 #
 # Return Value
 #

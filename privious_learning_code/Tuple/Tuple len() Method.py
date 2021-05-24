@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     tuple − This is a tuple for which number of elements to be counted.
+# tuple − This is a tuple for which number of elements to be counted.
 #
 # Return Value
 #

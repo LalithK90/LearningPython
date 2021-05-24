@@ -10,13 +10,13 @@
 #
 # Parameters
 #
-#     path − This is the path which would be tested for existence or any access.
+# path − This is the path which would be tested for existence or any access.
 #
-#     mode − This should be F_OK to test the existence of path, or it can be the inclusive OR of one or more of R_OK, W_OK, and X_OK to test permissions.
-#         os.F_OK − Value to pass as the mode parameter of access() to test the existence of path.
-#         os.R_OK − Value to include in the mode parameter of access() to test the readability of path.
-#         os.W_OK Value to include in the mode parameter of access() to test the writability of path.
-#         os.X_OK Value to include in the mode parameter of access() to determine if path can be executed.
+# mode − This should be F_OK to test the existence of path, or it can be the inclusive OR of one or more of R_OK, W_OK, and X_OK to test permissions.
+# os.F_OK − Value to pass as the mode parameter of access() to test the existence of path.
+# os.R_OK − Value to include in the mode parameter of access() to test the readability of path.
+# os.W_OK Value to include in the mode parameter of access() to test the writability of path.
+# os.X_OK Value to include in the mode parameter of access() to determine if path can be executed.
 #
 # Return Value
 #

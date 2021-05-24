@@ -9,7 +9,7 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor for buffer sync is required.
+# fd − This is the file descriptor for buffer sync is required.
 #
 # Return Value
 #

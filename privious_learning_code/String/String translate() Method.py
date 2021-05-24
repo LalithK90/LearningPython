@@ -34,9 +34,9 @@ print(str.translate(trantab))
 #
 # Parameters
 #
-#     table − You can use the maketrans() helper function in the string module to create a translation table.
+# table − You can use the maketrans() helper function in the string module to create a translation table.
 #
-#     deletechars − The list of characters to be removed from the source string.
+# deletechars − The list of characters to be removed from the source string.
 #
 # Return Value
 #

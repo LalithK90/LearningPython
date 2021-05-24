@@ -20,9 +20,9 @@ print(str.translate(trantab))
 #
 # Parameters
 #
-#     intab − This is the string having actual characters.
+# intab − This is the string having actual characters.
 #
-#     outtab − This is the string having corresponding mapping character.
+# outtab − This is the string having corresponding mapping character.
 #
 # Return Value
 #

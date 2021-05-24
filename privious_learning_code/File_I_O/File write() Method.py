@@ -9,7 +9,7 @@
 #
 # Parameters
 #
-#     str − This is the String to be written in the file.
+# str − This is the String to be written in the file.
 #
 # Return Value
 #
@@ -34,8 +34,8 @@ line = fo.write(str)
 # Now read complete file from beginning.
 fo.seek(0, 0)
 for index in range(6):
-    line = fo.next()
-    print("Line No %d - %s" % (index, line))
+line = fo.next()
+print("Line No %d - %s" % (index, line))
 
 # Close opend file
 fo.close()

@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     path − This is the path, which needs to be created.
+# path − This is the path, which needs to be created.
 #
-#     mode − This is the mode of the named path to be given.
+# mode − This is the mode of the named path to be given.
 #
 # Return Value
 #

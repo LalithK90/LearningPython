@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     seq − This is a sequence to be converted into tuple.
+# seq − This is a sequence to be converted into tuple.
 #
 # Return Value
 #

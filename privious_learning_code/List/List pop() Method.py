@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     obj − This is an optional parameter, index of the object to be removed from the list.
+# obj − This is an optional parameter, index of the object to be removed from the list.
 #
 # Return Value
 #

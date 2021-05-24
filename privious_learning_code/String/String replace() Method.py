@@ -12,11 +12,11 @@ print(str.replace("is", "was", 3))
 #
 # Parameters
 #
-#     old − This is old substring to be replaced.
+# old − This is old substring to be replaced.
 #
-#     new − This is new substring, which would replace old substring.
+# new − This is new substring, which would replace old substring.
 #
-#     max − If this optional argument max is given, only the first count occurrences are replaced.
+# max − If this optional argument max is given, only the first count occurrences are replaced.
 #
 # Return Value
 #

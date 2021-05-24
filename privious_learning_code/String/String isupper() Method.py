@@ -14,7 +14,7 @@ print(str.isupper())
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #

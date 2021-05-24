@@ -11,7 +11,7 @@
 #
 # Parameters
 #
-#     t − This is the struct_time or full 9-tuple.
+# t − This is the struct_time or full 9-tuple.
 #
 # Return Value
 #

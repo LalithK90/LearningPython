@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor for which data to be written.
+# fd − This is the file descriptor for which data to be written.
 #
 # Return Value
 #

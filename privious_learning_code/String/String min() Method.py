@@ -14,7 +14,7 @@ print("Min character: " + min(str))
 #
 # Parameters
 #
-#     str − This is the string from which min alphabetical character needs to be returned.
+# str − This is the string from which min alphabetical character needs to be returned.
 #
 # Return Value
 #

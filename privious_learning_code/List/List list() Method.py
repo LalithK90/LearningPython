@@ -12,7 +12,7 @@
 #
 # Parameters
 #
-#     seq − This is a tuple to be converted into list.
+# seq − This is a tuple to be converted into list.
 #
 # Return Value
 #

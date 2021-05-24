@@ -10,31 +10,31 @@
 #
 # Parameters
 #
-#     path − This is the path, whose statvfs information is required.
+# path − This is the path, whose statvfs information is required.
 #
 # Return Value
 #
 # Here is the list of members of statvfs structure −
 #
-#     f_bsize − preferred file system block size.
+# f_bsize − preferred file system block size.
 #
-#     f_frsize − fundamental file system block size.
+# f_frsize − fundamental file system block size.
 #
-#     f_blocks − total number of blocks in the filesystem.
+# f_blocks − total number of blocks in the filesystem.
 #
-#     f_bfree − total number of free blocks.
+# f_bfree − total number of free blocks.
 #
-#     f_bavail − free blocks available to non-super user.
+# f_bavail − free blocks available to non-super user.
 #
-#     f_files − total number of file nodes.
+# f_files − total number of file nodes.
 #
-#     f_ffree − total number of free file nodes.
+# f_ffree − total number of free file nodes.
 #
-#     f_favail − free nodes available to non-super user.
+# f_favail − free nodes available to non-super user.
 #
-#     f_flag − system dependent.
+# f_flag − system dependent.
 #
-#     f_namemax − maximum file name length.
+# f_namemax − maximum file name length.
 #
 # Example
 import os, sys

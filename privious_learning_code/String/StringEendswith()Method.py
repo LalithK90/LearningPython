@@ -17,11 +17,11 @@ print(str.endswith(suffix, 2, 6))
 #
 # Parameters
 #
-#     suffix − This could be a string or could also be a tuple of suffixes to look for.
+# suffix − This could be a string or could also be a tuple of suffixes to look for.
 #
-#     start − The slice begins from here.
+# start − The slice begins from here.
 #
-#     end − The slice ends here.
+# end − The slice ends here.
 #
 # Return Value
 #

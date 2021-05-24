@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor.
+# fd − This is the file descriptor.
 #
-#     str − This is the string to be written.
+# str − This is the string to be written.
 #
 # Return Value
 #

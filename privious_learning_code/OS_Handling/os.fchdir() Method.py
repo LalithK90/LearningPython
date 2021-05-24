@@ -9,7 +9,7 @@
 #
 # Parameters
 #
-#     fd − This is Directory descriptor.
+# fd − This is Directory descriptor.
 #
 # Return Value
 #

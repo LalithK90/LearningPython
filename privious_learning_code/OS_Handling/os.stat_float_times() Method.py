@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     newvalue − If newvalue is True, future calls to stat() return floats, if it is False, future call on stat returns ints. If newvalue is not mentioned, it returns the current settings.
+# newvalue − If newvalue is True, future calls to stat() return floats, if it is False, future call on stat returns ints. If newvalue is not mentioned, it returns the current settings.
 #
 # Return Value
 #

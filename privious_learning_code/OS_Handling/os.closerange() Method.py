@@ -9,17 +9,17 @@
 #
 # Parameters
 #
-#     fd_low − This is the Lowest file descriptor to be closed.
+# fd_low − This is the Lowest file descriptor to be closed.
 #
-#     fd_high − This is the Highest file descriptor to be closed.
+# fd_high − This is the Highest file descriptor to be closed.
 #
 # This function is equivalent to −
 #
 # for fd in xrange(fd_low, fd_high):
-#    try:
-#       os.close(fd)
-#    except OSError:
-#       pass
+#try:
+#   os.close(fd)
+#except OSError:
+#   pass
 #
 # Return Value
 #

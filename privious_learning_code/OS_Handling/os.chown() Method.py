@@ -10,11 +10,11 @@
 #
 # Parameters
 #
-#     path − This is the path for which owner id and group id need to be setup.
+# path − This is the path for which owner id and group id need to be setup.
 #
-#     uid − This is Owner ID to be set for the file.
+# uid − This is Owner ID to be set for the file.
 #
-#     gid − This is Group ID to be set for the file.
+# gid − This is Group ID to be set for the file.
 #
 # Return Value
 #

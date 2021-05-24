@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     seq − This is the list of elements
+# seq − This is the list of elements
 #
 # Return Value
 #

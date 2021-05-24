@@ -11,9 +11,9 @@ print(str.rjust(50, '0'))
 #
 # Parameters
 #
-#     width − This is the string length in total after padding.
+# width − This is the string length in total after padding.
 #
-#     fillchar − This is the filler character, default is a space.
+# fillchar − This is the filler character, default is a space.
 #
 # Return Value
 #

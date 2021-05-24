@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     path − This is complete path of the directory to be changed to a new location.
+# path − This is complete path of the directory to be changed to a new location.
 #
 # Return Value
 #

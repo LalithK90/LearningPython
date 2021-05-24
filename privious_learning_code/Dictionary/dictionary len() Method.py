@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     dict − This is the dictionary, whose length needs to be calculated.
+# dict − This is the dictionary, whose length needs to be calculated.
 #
 # Return Value
 #

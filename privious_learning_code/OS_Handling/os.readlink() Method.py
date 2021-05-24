@@ -9,7 +9,7 @@
 #
 # Parameters
 #
-#     path − This is the path or symblic link for which we are going to find source of the link.
+# path − This is the path or symblic link for which we are going to find source of the link.
 #
 # Return Value
 #

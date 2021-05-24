@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     key − This is the Key to be searched in the dictionary.
+# key − This is the Key to be searched in the dictionary.
 #
 # Return Value
 #

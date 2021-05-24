@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     tuple − This is a tuple from which max valued element to be returned.
+# tuple − This is a tuple from which max valued element to be returned.
 #
 # Return Value
 #

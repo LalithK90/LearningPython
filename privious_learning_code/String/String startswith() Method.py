@@ -13,11 +13,11 @@ print(str.startswith('this', 2, 4))
 #
 # Parameters
 #
-#     str − This is the string to be checked.
+# str − This is the string to be checked.
 #
-#     beg − This is the optional parameter to set start index of the matching boundary.
+# beg − This is the optional parameter to set start index of the matching boundary.
 #
-#     end − This is the optional parameter to end start index of the matching boundary.
+# end − This is the optional parameter to end start index of the matching boundary.
 #
 # Return Value
 #

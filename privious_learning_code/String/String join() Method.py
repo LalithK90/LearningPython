@@ -12,7 +12,7 @@ print(s.join(seq))
 #
 # Parameters
 #
-#     sequence − This is a sequence of the elements to be joined.
+# sequence − This is a sequence of the elements to be joined.
 #
 # Return Value
 #

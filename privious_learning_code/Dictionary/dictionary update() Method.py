@@ -9,7 +9,7 @@
 #
 # Parameters
 #
-#     dict2 − This is the dictionary to be added into dict.
+# dict2 − This is the dictionary to be added into dict.
 #
 # Return Value
 #

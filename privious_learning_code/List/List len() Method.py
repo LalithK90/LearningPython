@@ -10,7 +10,7 @@
 #
 # Parameters
 #
-#     list − This is a list for which number of elements to be counted.
+# list − This is a list for which number of elements to be counted.
 #
 # Return Value
 #

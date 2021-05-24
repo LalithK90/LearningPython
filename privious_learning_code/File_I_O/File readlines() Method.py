@@ -12,7 +12,7 @@
 #
 # Parameters
 #
-#     sizehint − This is the number of bytes to be read from the file.
+# sizehint − This is the number of bytes to be read from the file.
 #
 # Return Value
 #

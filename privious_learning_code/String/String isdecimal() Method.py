@@ -17,7 +17,7 @@ print(str.isdecimal())
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #

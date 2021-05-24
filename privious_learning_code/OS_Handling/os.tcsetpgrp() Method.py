@@ -9,9 +9,9 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor.
+# fd − This is the file descriptor.
 #
-#     pg − This set the process group to pg.
+# pg − This set the process group to pg.
 #
 # Return Value
 #

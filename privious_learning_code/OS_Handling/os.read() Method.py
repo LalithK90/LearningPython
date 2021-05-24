@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     fd − This is the file descriptor of the file.
+# fd − This is the file descriptor of the file.
 #
-#     n − These are n bytes from file descriptor fd.
+# n − These are n bytes from file descriptor fd.
 #
 # Return Value
 #

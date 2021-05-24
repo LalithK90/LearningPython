@@ -10,9 +10,9 @@
 #
 # Parameters
 #
-#     path − This is the file path.
+# path − This is the file path.
 #
-#     name − This specifies the configuration value to retrieve; it may be a string which is the name of a defined system value; these names are specified in a number of standards (POSIX.1, Unix 95, Unix 98, and others). The names known to the host operating system are given in the os.pathconf_names dictionary.
+# name − This specifies the configuration value to retrieve; it may be a string which is the name of a defined system value; these names are specified in a number of standards (POSIX.1, Unix 95, Unix 98, and others). The names known to the host operating system are given in the os.pathconf_names dictionary.
 #
 # Return Value
 #

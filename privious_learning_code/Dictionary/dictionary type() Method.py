@@ -9,7 +9,7 @@
 #
 # Parameters
 #
-#     dict − This is the dictionary.
+# dict − This is the dictionary.
 #
 # Return Value
 #

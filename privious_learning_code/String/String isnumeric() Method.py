@@ -18,7 +18,7 @@ print(str.isnumeric())
 #
 # Parameters
 #
-#     NA
+# NA
 #
 # Return Value
 #
