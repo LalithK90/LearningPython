@@ -11,7 +11,7 @@ cur.execute('''SELECT COUNT(from_id) AS inbound, old_rank, new_rank, id, url
     WHERE html IS NOT NULL AND ERROR IS NULL
     GROUP BY id ORDER BY id,inbound''')
 
-fhand = open('spider.js','w')
+fhand = open('spider.js', 'w')
 nodes = list()
 maxrank = None
 minrank = None
